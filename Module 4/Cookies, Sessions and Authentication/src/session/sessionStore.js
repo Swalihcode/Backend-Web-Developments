@@ -50,3 +50,5 @@ module.exports = {
   destroy: destroySession,
   _store: sessions,
 };
+
+// session-store update marker
